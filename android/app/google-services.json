@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10927982448",
+    "project_id": "thelaptophub-cfd80",
+    "storage_bucket": "thelaptophub-cfd80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10927982448:android:4ef937d68a67fe38ab71b5",
+        "android_client_info": {
+          "package_name": "com.example.the_laptop_hub_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10927982448-pmj75vb2ojvcht0pt83622vp8d2d52lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Gum355_O3s14UG2EomBjeZSy3Fmx_js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10927982448-pmj75vb2ojvcht0pt83622vp8d2d52lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
